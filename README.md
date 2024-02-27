@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="center"><b>Hi! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <!--  -->
 
@@ -28,4 +28,20 @@
     <img src="https://skillicons.dev/icons?i=js,jest,kafka,nestjs,mongodb,nodejs,postgres,postman,py,rabbitmq,ts,git,github" />
   </a>
 </p>
+
+
+## Github Status
+
+[![](https://github-readme-stats.vercel.app/api?username=sebastian852-852&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/sebastian852-852)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=sebastian852-852&theme=material-palenight)](https://github.com/sebastian852-852)
+</div>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/sebastian852-852/sebastian852-852/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
 
