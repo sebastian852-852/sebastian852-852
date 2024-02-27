@@ -13,5 +13,5 @@
 🚀 I focus on creating robust and scalable backends.
 🔨 Currently, I am working on personal backend development projects.
 📝 I master TypeScript, JavaScript, and popular tools for backend development.
-🔭 Interested in developing solid backends with a focus on security and optimal performance. 
+🔭 Interested in developing backends with a focus on security and optimal performance. 
 </pre>
