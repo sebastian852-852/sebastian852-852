@@ -3,7 +3,7 @@
 <!--  -->
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Sebastian+Barrios;Computer+Science+Student+;Backend+Devoloper...">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Sebastian+Barrios;Computer+Science+Student+;Backend+Devoloper...&center=true&width=500&height=50">
 </p>
 
 ## About me
