@@ -2,6 +2,6 @@
 <!--  -->
 <p align="center">
 	<a href="https://github.com/sebastian852-852">
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Sebastian+Barrios;Computer+Science+Student+;Backend+Devoloper...+%F0%9F%92%BB)](https://git.io/typing-svg">
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Sebastian+Barrios;Computer+Science+Student+;Backend+Devoloper...+%F0%9F%92%BB">
 	</a>
 </p>
